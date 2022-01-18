@@ -50,7 +50,6 @@ p  span {
 .btn:hover {
     background: darken(var(--green, 10%));
 }
-
 .hero {
   background-color: #444;
   background-image: url(//unsplash.it/1000/600);
