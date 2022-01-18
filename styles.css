@@ -7,14 +7,12 @@
 --green: #0F9;
 --black: #444;
 }
-
 body {
   margin: 0;
   font-family: 'Poppins', sans-serif;
   color: var(--black);
   font-size: 1.1rem;
 }
-
 h1 {
   font-size: 5rem;
   color: var(--green);
@@ -43,7 +41,6 @@ p  span {
   font-weight: 600;
   text-decoration: none;
 }
-
 .btn:hover {
     background: darken(var(--green, 10%));
 }
