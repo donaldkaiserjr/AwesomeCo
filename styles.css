@@ -25,19 +25,16 @@ h1 {
   display: inline-block;
   margin: 0.25em 0 0.5em;
 }
- h1 span {
-    font-weight: 300;
+h1 span {
+  font-weight: 300;
 }
-
 h2 {
   font-size: 1.6rem;
   margin-bottom: 0.5em;
 }
-
 p  span {
     color: var(--green);
   }
-
 .btn {
   display: inline-block;
   padding: .7em 1.7em;
@@ -63,7 +60,6 @@ p  span {
   align-items: center;
   justify-content: center;
 }
-
 .sales-points {
   padding: 12vh 0;
   text-align: center;
@@ -71,7 +67,6 @@ p  span {
   justify-content: space-around;
   flex-direction: column;
 }
-
 @media (min-width: 40rem) {
   .sales-points {
     flex-direction: row;
